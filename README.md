@@ -181,7 +181,7 @@ The in-app **Permissions** screen walks through each one.
 | Member | Role |
 |---|---|
 | Brandon Deonarine | _To be decided_ |
-| _Name_ | _Role_ |
+| Adana Bryan |App, Doc |
 | _Name_ | _Role_ |
 | _Name_ | _Role_ |
 
